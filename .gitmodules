@@ -1,0 +1,4 @@
+[submodule "fontforge"]
+	path = fontforge
+	url = ../fontforge.git
+	update = merge
